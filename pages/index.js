@@ -13,7 +13,7 @@ export default function Home() {
         <div className="absolute w-100 tc" style={{top: '50%', transform: 'translateY(-50%)'}}>
         <a class="link white f3 dib mr3" href="https://www.youtube.com/watch?v=pP1uswAwZi4" target="_blank" rel="noopener noreferrer">Demo Video</a>
         <a class="link white f3 dib mr3" href="https://github.com/dxyz004" target="_blank" rel="noopener noreferrer">GitHub</a>
-        <a class="link white f3 dib mr3" href="https://exquisite-starlight-fbe91d.netlify.app" target="_blank" rel="noopener noreferrer">Notes</a>
+        <a class="link white f3 dib mr3" href="https://exquisite-starlight-fbe91d.netlify.app/" target="_blank" rel="noopener noreferrer">Notes</a>
         </div>
       </header>
     </article>
